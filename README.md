@@ -19,10 +19,10 @@ Pre-requisitos
 O projeto pode ser instalado com npm ou yarn, então escolha uma das opções abaixo caso você não tenha nenhum instalado em seu sistema.
 
 O NPM é distribuído com o Node.js, o que significa que quando você faz o download do Node.js, você obtém automaticamente o npm instalado
-no seu computador: [https://nodejs.org/en/download/]
+no seu computador: [donwload nodejs] (https://nodejs.org/en/download/)
 
 O Yarn é um gerenciador de pacotes criado pelo Facebook Team e parece ser mais rápido que o npm em geral:
-[https://yarnpkg.com/en/docs/install#debian-stable]
+[download yarn] (https://yarnpkg.com/en/docs/install#debian-stable)
 
 
 Instalação
