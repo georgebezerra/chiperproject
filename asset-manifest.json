@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.63da9dd4.chunk.css",
-  "main.js": "/static/js/main.1a08fb9a.chunk.js",
-  "main.js.map": "/static/js/main.1a08fb9a.chunk.js.map",
-  "static/js/1.ac9ccbd1.chunk.js": "/static/js/1.ac9ccbd1.chunk.js",
-  "static/js/1.ac9ccbd1.chunk.js.map": "/static/js/1.ac9ccbd1.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.63da9dd4.chunk.css.map": "/static/css/main.63da9dd4.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.ebc6811a7d3ea15c72e9962cc15bd362.js": "/precache-manifest.ebc6811a7d3ea15c72e9962cc15bd362.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/chiperproject/static/css/main.63da9dd4.chunk.css",
+  "main.js": "/chiperproject/static/js/main.1a08fb9a.chunk.js",
+  "main.js.map": "/chiperproject/static/js/main.1a08fb9a.chunk.js.map",
+  "static/js/1.ac9ccbd1.chunk.js": "/chiperproject/static/js/1.ac9ccbd1.chunk.js",
+  "static/js/1.ac9ccbd1.chunk.js.map": "/chiperproject/static/js/1.ac9ccbd1.chunk.js.map",
+  "runtime~main.js": "/chiperproject/static/js/runtime~main.e0926df1.js",
+  "runtime~main.js.map": "/chiperproject/static/js/runtime~main.e0926df1.js.map",
+  "static/css/main.63da9dd4.chunk.css.map": "/chiperproject/static/css/main.63da9dd4.chunk.css.map",
+  "index.html": "/chiperproject/index.html",
+  "precache-manifest.820fdd6307d86a5639f25b88fe549dfc.js": "/chiperproject/precache-manifest.820fdd6307d86a5639f25b88fe549dfc.js",
+  "service-worker.js": "/chiperproject/service-worker.js"
 }
