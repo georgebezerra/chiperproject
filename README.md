@@ -30,12 +30,14 @@ cd chiperproject
 
 Instale as dependecias e execute:
 
-yarn install
+yarn install  
+
 yarn start
 
 or
 
-npm install
+npm install  
+
 npm run start
 
 Versions
