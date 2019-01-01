@@ -1,6 +1,8 @@
 # Chirper Project
 
-Este projeto é a implementação do aplicativo Chiper Project, que server para desenvolver o conhecimento adquirido no módulo React e Redux  do curso Fundamentos de React da Udacity, parte do Programa React Nanodegree.
+Este projeto é a implementação do aplicativo Chiper Project, que server para desenvolver o conhecimento adquirido no módulo React e Redux  do curso Fundamentos de React da Udacity, parte do Programa React Nanodegree.  
+  
+  Link: https://georgebezerra.github.io/chiperproject/
 
 Chiper Project é um aplicativo que simula uma versão simplificada do Twitter. Os usuários poderá criar comentários, editar comentários e curtir.
 
