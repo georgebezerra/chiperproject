@@ -24,7 +24,8 @@ O Yarn é um gerenciador de pacotes criado pelo Facebook Team e parece ser mais 
 Instalação
 Faça o donwload do projeto e sigas as instruções abaixo:
 
-git clone https://github.com/georgebezerra/chiperproject.git
+git clone https://github.com/georgebezerra/chiperproject.git  
+
 cd chiperproject
 
 Instale as dependecias e execute:
