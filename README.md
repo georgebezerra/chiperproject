@@ -29,7 +29,7 @@ O Yarn é um gerenciador de pacotes criado pelo Facebook Team e parece ser mais 
 [download yarn](https://yarnpkg.com/en/docs/install#debian-stable)
 
 
-**Instalação**
+**Instalação**  
 Faça o donwload do projeto e sigas as instruções abaixo:
 
 1. git clone https://github.com/georgebezerra/chiperproject.git  
