@@ -18,7 +18,7 @@ Este aplicativo foi criado:
 Iniciando o projeto
 Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
 
-Pre-requisitos  
+**Pre-requisitos**
 
 O projeto pode ser instalado com npm ou yarn, então escolha uma das opções abaixo caso você não tenha nenhum instalado em seu sistema.
 
@@ -29,12 +29,12 @@ O Yarn é um gerenciador de pacotes criado pelo Facebook Team e parece ser mais 
 [download yarn](https://yarnpkg.com/en/docs/install#debian-stable)
 
 
-Instalação
+**Instalação**
 Faça o donwload do projeto e sigas as instruções abaixo:
 
-git clone https://github.com/georgebezerra/chiperproject.git  
+1. git clone https://github.com/georgebezerra/chiperproject.git  
 
-cd chiperproject
+2. cd chiperproject
 
 Instale as dependecias e execute:
 
