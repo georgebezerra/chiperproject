@@ -8,7 +8,12 @@ Chiper Project é um aplicativo que simula uma versão simplificada do Twitter. 
 
 Este aplicativo foi criado:  
 
-* React * React-icons * React Router * Redux * Redux Thunk (middleware) * React-Redux-Loading  
+* React  
+* React-icons  
+* React Router  
+* Redux  
+* Redux Thunk (middleware)  
+* React-Redux-Loading  
 
 Iniciando o projeto
 Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
