@@ -6,6 +6,8 @@
 
 Este projeto é uma simples implementação que serve para desenvolver o conhecimento adquirido no módulo React e Redux  do curso Fundamentos de React da Udacity, parte do Programa React Nanodegree.  
   
+  #Demo
+  
   Link: http://reactnd-project-chiperproject.surge.sh/
 
 Chiper Project é um aplicativo que simula uma versão simplificada do Twitter. Os usuários poderá criar comentários, editar comentários e curtir.
