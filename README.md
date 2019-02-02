@@ -59,7 +59,6 @@ npm run start
 Versions
 v1.0
 
-Authors
-George Bezerra
+Authors: George Bezerra
 
 https://github.com/georgebezerra
