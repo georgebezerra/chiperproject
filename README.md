@@ -6,7 +6,7 @@
 
 Este projeto é uma simples implementação que serve para desenvolver o conhecimento adquirido no módulo React e Redux  do curso Fundamentos de React da Udacity, parte do Programa React Nanodegree.  
   
-  #Demo
+  # Demo
   
   Link: http://reactnd-project-chiperproject.surge.sh/
 
