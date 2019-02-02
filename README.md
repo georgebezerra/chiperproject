@@ -1,4 +1,4 @@
-# Chirper Project
+# Chiper Project
 
 
 [![Udacity React Nanodegree](https://github.com/georgebezerra/reactnd-project-myreads/blob/master/src/icons/udacity_reactnd.svg)](https://www.udacity.com/course/react-nanodegree--nd019)
@@ -7,6 +7,8 @@
 Este projeto é uma simples implementação que serve para desenvolver o conhecimento adquirido no módulo React e Redux  do curso Fundamentos de React da Udacity, parte do Programa React Nanodegree.  
   
   # Demo
+  
+  ![Chiper Project](https://github.com/georgebezerra/reactnd-project-myreads/blob/master/src/icons/chiperproject.gif)
   
   Link: http://reactnd-project-chiperproject.surge.sh/
 
